@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, LeRoy, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, LeRoy, an <a href="https://www.linkedin.com/in/leroyh/">IT Professional</a>☺</h1>
 <p>
 In the image above I created a resource group called osTicket.
   
@@ -26,7 +26,7 @@ In the image above I created a resource group called osTicket.
 
 [twitter]: https://twitter.com/leroywharris
 [instagram]: https://www.instagram.com/leroywharris
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/leroyh
 
 
 
