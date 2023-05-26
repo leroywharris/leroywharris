@@ -1,6 +1,11 @@
 ### Hi there 👋
 <h1>Hi, LeRoy, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
-
+<p>
+In the image above I created a resource group called osTicket.
+  
+   
+  
+</p>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
