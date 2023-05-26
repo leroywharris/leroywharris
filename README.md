@@ -1,7 +1,15 @@
 ### Hi there 👋
 <h1>Hi, LeRoy, an <a href="https://www.linkedin.com/in/leroyh/">IT Professional</a>☺</h1>
 <p>
-In the image above I created a resource group called osTicket.
+As a IT professional, I troubleshoot and solve equipment problems in people work and private lives. 
+- Administering diverse operating systems like Windows, Linux, or Mac
+- Installing and configuring computer hardware and software
+- Cloud administration and applications
+- Maintaining local area networks (LAN), wide area networks (WAN)
+- Troubleshooting
+- Helping employees with technical issues
+- Maintain audio, video (web Cam), and computer equipment 
+- PA and Sound Systems
   
    
   
