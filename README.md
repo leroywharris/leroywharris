@@ -26,7 +26,7 @@ In the image above I created a resource group called osTicket.
 
 [twitter]: https://twitter.com/leroywharris
 [instagram]: https://www.instagram.com/leroywharris
-[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/leroyh/
+[linkedin]: https://www.linkedin.com/in/leroyh/
 
 
 
